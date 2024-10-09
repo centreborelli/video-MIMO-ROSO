@@ -1,0 +1,6 @@
+@article{dewil2024adapting,
+  title={Adapting MIMO video restoration networks to low latency constraints},
+  author={Dewil, Val{\'e}ry and Zheng, Zhe and Barral, Arnaud and Raad, Lara and Nicolas, Nao and Cassagne, Ioannis and Morel, Jean-michel and Facciolo, Gabriele and Galerne, Bruno and Arias, Pablo},
+  journal={arXiv preprint arXiv:2408.12439},
+  year={2024}
+}
